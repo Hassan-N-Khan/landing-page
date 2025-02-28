@@ -27,6 +27,7 @@ a {
     align-items: center;
     background-color: #1F2937;
     padding: 10px;
+    border-bottom: 1px solid #000000; 
 }
 
 img{
